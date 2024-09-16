@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: SMTP.GOOGLE.COM.
+mx: smtp.google.com
 max_age: 604800
